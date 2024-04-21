@@ -1,0 +1,14 @@
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\bin\Debug\net8.0\InsertionSortImplementation.exe
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\bin\Debug\net8.0\InsertionSortImplementation.deps.json
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\bin\Debug\net8.0\InsertionSortImplementation.runtimeconfig.json
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\bin\Debug\net8.0\InsertionSortImplementation.dll
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\bin\Debug\net8.0\InsertionSortImplementation.pdb
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\obj\Debug\net8.0\InsertionSortImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\obj\Debug\net8.0\InsertionSortImplementation.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\obj\Debug\net8.0\InsertionSortImplementation.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\obj\Debug\net8.0\InsertionSortImplementation.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\obj\Debug\net8.0\InsertionSortImplementation.dll
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\obj\Debug\net8.0\refint\InsertionSortImplementation.dll
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\obj\Debug\net8.0\InsertionSortImplementation.pdb
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\obj\Debug\net8.0\InsertionSortImplementation.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\InsertionSortImplementation\InsertionSortImplementation\obj\Debug\net8.0\ref\InsertionSortImplementation.dll
